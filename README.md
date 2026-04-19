@@ -81,5 +81,3 @@ All components use a simulated timeline driven by the single `backend` WebSocket
 - Gate wait fluctuations
 - Stadium zone density 
 - Emergency broadcasts
-
-Enjoy the hackathon win! 🏆
