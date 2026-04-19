@@ -4,8 +4,6 @@
 
 **CrowdPulse** is a powerful hackathon MVP that makes venues safer, faster, and more enjoyable for fans while providing real-time crowd intelligence and command capabilities to admins.
 
-![CrowdPulse Demo](https://via.placeholder.com/1200x600.png?text=CrowdPulse+Dark+Mode+UI)
-
 ## 🌟 The Goal
 Reduce entry/exit queues, prevent gate crowding, optimize footfall navigation, and support emergency evacuation flows. Built with a premium, glowing glassmorphism design system to instantly wow judges and provide a modern, futuristic UX. 
 
